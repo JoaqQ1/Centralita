@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{05B7D7DF-439D-49E9-BF97-4F19D98C70F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.n PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CentralitaApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CentralitaApp/ViewController.cs">
+    <Files>
+      <File FileName="Entidades/Centralita.cs" Line="101" Column="14" />
+      <File FileName="n/Program.cs" Line="17" Column="1" />
+      <File FileName="Entidades/statica.cs" />
+      <File FileName="Entidades/Llamada.cs" Line="36" Column="14" />
+      <File FileName="Entidades/Provincial.cs" Line="26" Column="36" />
+      <File FileName="Entidades/Local.cs" Line="36" Column="27" />
+      <File FileName="CentralitaApp/Main.cs" Line="5" Column="24" />
+      <File FileName="CentralitaApp/ViewController.cs" Line="12" Column="4" />
+      <File FileName="CentralitaApp/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Entidades" expanded="True">
+            <Node name="CentralitaApp" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+            <Node name="Entidades" expanded="True" />
+            <Node name="n" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
